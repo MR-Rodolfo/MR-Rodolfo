@@ -4,7 +4,7 @@
 
 ### 💻 Desarrollador de Apps & Web · Marketing Digital
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desarrollador+de+Apps;Programador+C%2B%2B+%7C+JS+%7C+CSS;Creador+de+proyectos+web;Siempre+aprendiendo+🚀" alt="Typing SVG" />
+font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Desarrollador+de+Apps;Programador+C%2B%2B+%7C+JS+%7C+CSS;Creador+de+proyectos+web;Siempre+aprendiendo+🚀" alt="Typing SVG" />
 
 </div>
 
