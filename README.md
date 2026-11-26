@@ -5,8 +5,6 @@
 ### 💻 Desarrollador de Apps & Web · Marketing Digital
 
 
-</div>
-
 ---
 
 ## 🧑‍💻 Sobre mí
