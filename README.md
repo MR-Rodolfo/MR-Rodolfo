@@ -1,79 +1,62 @@
-<div align="center">
+<div align="center">👋 Hola, soy MR Rodolfo
 
-# 👋 Hola, soy MR Rodolfo
+💻 Desarrollador de Apps & Web · Marketing Digital
 
-### 💻 Desarrollador de Apps & Web · Marketing Digital
-</dev>
+""GitHub" (https://img.shields.io/badge/GitHub-MR--Rodolfo-181717?style=flat-square&logo=github)" (https://github.com/MR-Rodolfo)
+""Portfolio" (https://img.shields.io/badge/Portfolio-Visitar-00D4FF?style=flat-square&logo=vercel&logoColor=white)" (https://xyvenqorix.vercel.app)
 
----
+</div>---
 
-## 🧑‍💻 Sobre mí
+🧑‍💻 Sobre mí
 
-- 🔭 Desarrollo apps y sitios web
-- 🌱 Aprendiendo y mejorando cada día
-- 📣 También trabajo en marketing digital
-- 💬 Pregúntame sobre programación, web y proyectos
-
----
-
-## 🛠️ Tecnologías
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,mongodb,vercel,git,github,vscode,figma,linux,windows&theme=dark)](https://skillicons.dev)
-
-</div>
+- 🔭 Desarrollo aplicaciones y sitios web.
+- 🌱 Aprendiendo y mejorando cada día.
+- 📣 También trabajo en marketing digital.
+- 🎮 Interesado en videojuegos, software y tecnología.
+- 💬 Pregúntame sobre programación, web y proyectos.
 
 ---
 
-## 📊 Estadísticas de GitHub
+🛠️ Tecnologías
 
-<div align="center">
+<div align="center">""My Skills" (https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,mongodb,vercel,git,github,vscode,figma,linux,windows&theme=dark)" (https://skillicons.dev)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</div>---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+📊 Estadísticas de GitHub
 
-</div>
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=MR-Rodolfo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Rodolfo&layout=compact&theme=tokyonight&hide_border=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-Rodolfo&theme=tokyonight&hide_border=true" /></div>---
 
----
+📈 Historial de contribuciones
 
-## 🏆 Insignias
+<div align="center">""Activity Graph" (https://github-readme-activity-graph.vercel.app/graph?username=MR-Rodolfo&theme=tokyo-night&hide_border=true)" (https://github.com/MR-Rodolfo)
 
-<div align="center">
+</div>---
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square)
-![Followers](https://img.shields.io/github/followers/TU_USUARIO?style=flat-square&logo=github)
-![Stars](https://img.shields.io/github/stars/TU_USUARIO?style=flat-square&logo=github)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Made with Love](https://img.shields.io/badge/Hecho%20con-❤️-red?style=flat-square)
+🏆 Insignias
 
-</div>
+<div align="center">"Profile Views" (https://komarev.com/ghpvc/?username=MR-Rodolfo&color=blue&style=flat-square)
+"Followers" (https://img.shields.io/github/followers/MR-Rodolfo?style=flat-square&logo=github)
+"Stars" (https://img.shields.io/github/stars/MR-Rodolfo?style=flat-square&logo=github)
 
----
+"C++" (https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+"Vercel" (https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## 📫 Contacto
+</div>---
 
-<div align="center">
+📫 Contacto
 
-[![Portfolio](https://img.shields.io/badge/Portafolio-xyvenqorix.vercel.app-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://xyvenqorix.vercel.app)
-[![Email](https://img.shields.io/badge/Email-tucorreo@ejemplo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/TUNUMERO)
+<div align="center">""Portfolio" (https://img.shields.io/badge/Portafolio-xyvenqorix.vercel.app-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)" (https://xyvenqorix.vercel.app)
 
-</div>
+""GitHub" (https://img.shields.io/badge/GitHub-MR--Rodolfo-181717?style=for-the-badge&logo=github)" (https://github.com/MR-Rodolfo)
 
----
+</div>---
 
-<div align="center">
+<div align="center">⭐ Si alguno de mis proyectos te resulta útil, ¡no olvides dejar una estrella!
 
-⭐ Si algo de lo que hago te sirve, deja una estrella ⭐
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+"Footer" (https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
